@@ -6,6 +6,11 @@
 
 <br />
 
+## 📍 GitHub 링크 
+- [TypeScript_CRUD GitHub](https://github.com/JJieunn/Study-TypeScrip)
+
+<br />
+
 ## 📍 프로젝트 구조
 ```
 📦.
