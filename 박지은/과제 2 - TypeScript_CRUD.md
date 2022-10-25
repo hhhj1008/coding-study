@@ -7,7 +7,7 @@
 <br />
 
 ## 📍 GitHub 링크 
-- [TypeScript_CRUD GitHub](https://github.com/JJieunn/Study-TypeScrip)
+- [TypeScript_CRUD GitHub](https://github.com/JJieunn/Study-TypeScript)
 
 <br />
 
