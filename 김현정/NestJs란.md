@@ -25,7 +25,7 @@ NestJs의 공식문서의 Philosophy를 보면 "Nest provides an out-of-the-box 
 
 <br>
 
-## 3. NestJs 초기설정
+## 📌 3. NestJs 초기설정
 ### 3-1. NestJs 설치
 아래의 명령어를 실행
 ```shell
